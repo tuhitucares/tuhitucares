@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<p align="center"><b>Trusted care for your parents, at home in Gurugram and New Delhi.</b><br>
+<p align="center"><b>Trusted care for your parents, at home.</b><br>
 Certified nurses and carers, with a registered doctor behind every treatment.</p>
 
 <p align="center">
