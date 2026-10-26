@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://tuhitu.com">
+  <a href="https://tuhitucares.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/logo-white.png">
       <img src="assets/logo.png" alt="TuhiTu care@home" width="300">
@@ -11,21 +11,21 @@
 Certified nurses and carers, with a registered doctor behind every treatment.</p>
 
 <p align="center">
-  <a href="https://tuhitu.com"><b>tuhitu.com</b></a> &middot;
-  <a href="https://tuhitu.com/book">Book care</a> &middot;
-  <a href="https://tuhitu.com/how-it-works">How a visit works</a> &middot;
-  <a href="https://tuhitu.com/careers">Careers</a> &middot;
-  <a href="https://tuhitu.com/doctors">For doctors</a>
+  <a href="https://tuhitucares.com"><b>tuhitucares.com</b></a> &middot;
+  <a href="https://tuhitucares.com/book">Book care</a> &middot;
+  <a href="https://tuhitucares.com/how-it-works">How a visit works</a> &middot;
+  <a href="https://tuhitucares.com/careers">Careers</a> &middot;
+  <a href="https://tuhitucares.com/doctors">For doctors</a>
 </p>
 
 ## Care at home
 
 | Service | What you get |
 |---|---|
-| [Nursing care](https://tuhitu.com/nursing-care) | Registered and home health nurses for recovery, wounds and medicines. |
-| [GDA care attendant](https://tuhitu.com/care-attendants) | Help with bathing, meals, walking and company, by the shift. |
-| [Physiotherapy](https://tuhitu.com/physiotherapy) | Home sessions after surgery, a stroke or a fall. |
-| [Hospital companion](https://tuhitu.com/hospital-companion) | Cab to the hospital, help through the visit, medicines, safe drop home. |
+| [Nursing care](https://tuhitucares.com/nursing-care) | Registered and home health nurses for recovery, wounds and medicines. |
+| [GDA care attendant](https://tuhitucares.com/care-attendants) | Help with bathing, meals, walking and company, by the shift. |
+| [Physiotherapy](https://tuhitucares.com/physiotherapy) | Home sessions after surgery, a stroke or a fall. |
+| [Hospital companion](https://tuhitucares.com/hospital-companion) | Cab to the hospital, help through the visit, medicines, safe drop home. |
 
 ## How a visit works
 
@@ -41,8 +41,8 @@ Only certified, ID-checked carers are sent.
 ## Mediksha Academy
 
 Home-care skills taught to one standard, in simulation and VR labs, with a numbered certificate anyone can
-[check on our Verify page](https://tuhitu.com/verify). Every Sarathi is trained and certified at Mediksha Academy, ID
-and police verified, and works with a doctor behind every treatment. [Become a Sarathi](https://tuhitu.com/careers).
+[check on our Verify page](https://tuhitucares.com/verify). Every Sarathi is trained and certified at Mediksha Academy, ID
+and police verified, and works with a doctor behind every treatment. [Become a Sarathi](https://tuhitucares.com/careers).
 
 ## The name
 
